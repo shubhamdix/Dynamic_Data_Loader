@@ -1,0 +1,20 @@
+.mynav {
+    background-color: rgba(6, 6, 6, 0.8);
+    border-radius: 5px;
+}
+.navbar-brand {
+    color: aliceblue;
+}
+.navbar-nav {
+    color: aliceblue;
+}
+.btns {
+    width: 180px;
+    font-size: 19px;
+    padding: 8px;
+    border: 0px;
+    background-color: #2a4270;
+    color: white;
+    margin-bottom: 0px;
+    border-radius: 5px;
+}
